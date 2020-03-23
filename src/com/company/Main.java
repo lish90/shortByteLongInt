@@ -43,6 +43,5 @@ public class Main {
         long longTotal = 50000 + 10 * (bigNumber + largerNumber +smallNumber);
         System.out.println(longTotal);
 
-
     }
 }
